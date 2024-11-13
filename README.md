@@ -9,7 +9,7 @@ The use of codes was standardized on:
 - Anaconda 2.4.0
 
 ## Running time
-All codes run in less than 7 min per individual TrackMate file
+The running time will depend on the number of trajectories per TrackMate file. For files ~10000 trajectories, each code must run in less than 5 min
 
 ## Tracking Files Names (1-color)
 - Spots in tracks statistics.csv
