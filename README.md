@@ -96,4 +96,5 @@ Calculates the number of Clathrin spots normalized by area and by minute.
 1. Check the variable "files" to select the appropriate file directory.
 
 ## Brightness analysis
-It uses fluorescence intensity from TrackMate files and generates distribution and lognormal fit to extract the Geometric mean
+It uses fluorescence intensity from TrackMate files and generates a frequency distribution and lognormal fit to extract the Geometric mean.
+1. After tracking and saving file Spots in tracks statistics.csv run code "Model1-density.py" or "Model2-density" for one or two populations
