@@ -95,3 +95,5 @@ Quantifies the duration of individual spots of clathrin.
 Calculates the number of Clathrin spots normalized by area and by minute.
 1. Check the variable "files" to select the appropriate file directory.
 
+## Brightness analysis
+It uses fluorescence intensity from TrackMate files and generates distribution and lognormal fit to extract the Geometric mean
